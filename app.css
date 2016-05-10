@@ -1,5 +1,5 @@
 body {
-  font-family: "open sans" sans-serif;
+  font-family: "Open Sans" sans-serif;
 }
 
 .content article {
@@ -25,7 +25,7 @@ body {
   height: 500px;
   top: 300px;
   left: 50%;
-  background-image: url("http://crowscare.keenspot.com/cover-crowscare.jpg");
+  background-image: url("https://farm3.staticflickr.com/2817/10030259945_258c3a4416.jpg");
   background-repeat: no-repeat;
   background-size: auto 400px;
   background-position: right bottom;
@@ -44,4 +44,15 @@ body {
   color: antiquewhite;
   font-weight: 100;
   font-size: 100px;
+}
+
+.large-window {
+  height: 400px;
+  width: 400px;
+  border: 1px solid red;
+  margin: 0 auto;
+  border-radius: 200px;
+  background-image: url("http://i.dailymail.co.uk/i/pix/2013/04/23/article-2313311-1970711E000005DC-463_634x956.jpg");
+  background-position: top center;
+  background-attachment: fixed;
 }
